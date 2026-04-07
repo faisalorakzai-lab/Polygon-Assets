@@ -1,0 +1,11 @@
+{
+    "name": "Orakzai Bond",
+    "symbol": "OKBOND",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Orakzai Bond (OKBOND) is a unique crypto bond on Polygon network, integrating a lottery system with capital preservation.",
+    "website": "https://github.com/faisalorakzai-lab/Polygon-Assets",
+    "explorer": "https://polygonscan.com/token/0x6f539e4232c045ccAc08e2009d97BdC72815472a",
+    "status": "active",
+    "id": "0x6f539e4232c045ccAc08e2009d97BdC72815472a"
+}
